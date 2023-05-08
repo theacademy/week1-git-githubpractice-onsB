@@ -1,3 +1,5 @@
 Hello world!
 
 This line is supposed to appear on MyNewBranch
+
+This line too!
